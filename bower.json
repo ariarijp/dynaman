@@ -1,0 +1,24 @@
+{
+  "name": "dynaman",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "aws-sdk": "aws-sdk-js#~2.2.13",
+    "babel": "*",
+    "bootstrap": "~3.3.5",
+    "chance": "~0.8.0",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1",
+    "react": "~0.14.1"
+  }
+}
